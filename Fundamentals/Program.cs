@@ -16,9 +16,12 @@
 //NumeroPrimo.Print();
 
 //Poligono
-Triangle myTriangle = new Triangle(3, 3);
-myTriangle.CalculateArea();
-Square mySquare = new Square(5);
-mySquare.CalculateArea();
-Rectangle myRectangle = new Rectangle(10, 2);
-myRectangle.CalculateArea();
+// Triangle myTriangle = new Triangle(3, 3);
+// myTriangle.CalculateArea();
+// Square mySquare = new Square(5);
+// mySquare.CalculateArea();
+// Rectangle myRectangle = new Rectangle(10, 2);
+// myRectangle.CalculateArea();
+
+//AspectRatio
+await AspectRatio.Calculate("https://wallpapers.com/images/hd/1920-x-1080-hd-1qq8r4pnn8cmcew4.jpg");
