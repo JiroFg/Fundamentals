@@ -24,4 +24,10 @@
 // myRectangle.CalculateArea();
 
 //AspectRatio
-await AspectRatio.Calculate("https://wallpapers.com/images/hd/1920-x-1080-hd-1qq8r4pnn8cmcew4.jpg");
+//await AspectRatio.Calculate("https://wallpapers.com/images/hd/1920-x-1080-hd-1qq8r4pnn8cmcew4.jpg");
+
+//Reverse text
+// Reverser.Reverse("Hola culey");
+
+//Word counter
+WordCounter.Count("Hola como te va, Hola cabezon");
